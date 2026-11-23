@@ -23,6 +23,7 @@ A continuation of the ViMusic legacy, bringing together online streaming, local 
 <br /><br />
 
 <!-- Repository Statistics -->
+<a href="https://fmhy.net/mobile#youtube-music" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/JMcrafter26/badges@main/src/assets/available/fmhy/cozy.svg" alt="Featured on FMHY" height="55"/></a>
 
 <a href="https://github.com/heyjumanji/ViWave/releases">
   <img src="https://img.shields.io/github/downloads/heyjumanji/ViWave/total?style=for-the-badge&label=downloads&labelColor=252538&color=353344&logo=github&logoColor=white" alt="Downloads" />
